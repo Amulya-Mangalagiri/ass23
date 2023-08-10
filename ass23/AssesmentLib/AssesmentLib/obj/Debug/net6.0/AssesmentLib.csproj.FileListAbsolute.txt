@@ -1,0 +1,12 @@
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\bin\Debug\net6.0\AssesmentLib.deps.json
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\bin\Debug\net6.0\AssesmentLib.dll
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\bin\Debug\net6.0\AssesmentLib.pdb
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\AssesmentLib.csproj.AssemblyReference.cache
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\AssesmentLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\AssesmentLib.AssemblyInfoInputs.cache
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\AssesmentLib.AssemblyInfo.cs
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\AssesmentLib.csproj.CoreCompileInputs.cache
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\AssesmentLib.dll
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\refint\AssesmentLib.dll
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\AssesmentLib.pdb
+D:\phase-1\ass23\ass23\AssesmentLib\AssesmentLib\obj\Debug\net6.0\ref\AssesmentLib.dll
